@@ -1,0 +1,10 @@
+import java.util.Scanner;
+import java.util.Arrays;
+class static ArrayOfStrings
+public static void main(String[] args)
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("Enter The No.of Strings :");
+int size=sc.nextInt();
+
+
